@@ -49,6 +49,46 @@ Arcile needs Android's all-files access permission for full shared-storage manag
 - **OnlyFiles vaults:** Encrypt private files, unlock with a password or biometrics, and safely import, export, view, open, or share them.
 - **Personalization:** Customize Home, themes, layouts, shortcuts, thumbnails, and how files open.
 
+---
+
+## SCREENSHOTS
+<table>
+  <tr>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/7bb13645-bdb1-41d2-9293-aa87437c7182" />
+    </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/990a5118-17b8-400d-b948-56e5746acee1" />
+  </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/35583817-1806-4c90-97de-1dc3b2f2d25e" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/468a93f2-f098-4c60-9fa5-43128d98917b" />
+    </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/cd0039a1-5593-4d8a-ac18-921625c1c83e" />
+    </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/5598a91e-85c3-4149-8beb-15884a1e49e4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/a0517bd2-f4e3-4f1a-9430-58dc8c86bfdb" />
+    </td>
+   <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/8bc9445c-bef9-4865-a56d-bf1359b9b3d4" />
+    </td>
+   <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/f1055db1-bec7-40ff-b4e0-e0da8fb2f24a" />
+</table>
+
+
+---
+
 ## Community and support
 
 - Join the [Discord community](https://discord.gg/QgUjuNj9U8).
@@ -78,6 +118,9 @@ Architecture, project structure, technology choices, setup, build commands, test
 Arcile is source-available under the **Tremors Source License (TSL)**. Viewing, forking, and derivative works require attribution; commercial use requires written permission.
 
 Read [LICENSE.md](LICENSE.md) or the [web version](https://qtremors.github.io/license).
+
+## New Contributor
+📌EHSAAN ULLAH [visit the profile](https://github.com/ehsaanullah0)
 
 ---
 
